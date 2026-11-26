@@ -1,0 +1,41 @@
+﻿hospital_id,hospital_name,address,bed_count,hospital_type,accreditation_status,accreditation_date,has_emergency_services
+H001,Riverside University Hospital,"14 Willowbank Road, Exeter, Devon, EX2 7QN",850,Teaching,Accredited,16/06/18,Yes
+H002,Northfield General Hospital,"28 Meadow Lane, Leeds, West Yorkshire, LS8 4RP",420,General,Accredited,22/03/22,Yes
+H003,St Catherine's Specialist Hospital,"6 Rosewood Avenue, Bristol, BS5 9KT",280,Specialist,Accredited,10/09/21,No
+H004,Westmoor Community Hospital,"19 Oakfield Street, York, North Yorkshire, YO3 6LD",120,Community,Not Accredited,,No
+H005,Greenwich Medical Centre,"42 Parkside Road, London, SE10 8BW",560,General,Accredited,04/11/16,Yes
+H006,Highland University Hospital,"11 Heather Close, Inverness, IV2 5JN",920,Teaching,Accredited,18/04/19,Yes
+H007,Brookside General Hospital,"35 Elmwood Drive, Nottingham, NG6 2PT",380,General,Pending,,Yes
+H008,Kingfisher Specialist Hospital,"8 Waterside Walk, Birmingham, B7 4LX",210,Specialist,Accredited,29/07/14,No
+H009,Southgate Teaching Hospital,"23 Linden Road, Southampton, SO16 3QF",780,Teaching,Accredited,14/02/24,Yes
+H010,Whitebridge Community Hospital,"51 Birch Avenue, Norwich, Norfolk, NR4 8JM",95,Community,Not Accredited,,No
+H011,Redwood General Hospital,"17 Chestnut Street, Cardiff, CF11 7PL",510,General,Accredited,09/12/10,Yes
+H012,Fairview University Hospital,"32 Hawthorn Road, Manchester, M14 6TG",1100,Teaching,Accredited,21/08/17,Yes
+H013,Seaview Specialist Hospital,"9 Harbour Lane, Plymouth, Devon, PL4 2NX",190,Specialist,Pending,,No
+H014,Ashford General Hospital,"46 Kingsway Avenue, Canterbury, Kent, CT2 9RW",460,General,Accredited,13/05/20,Yes
+H015,Westbrook Community Hospital,"12 Sycamore Crescent, Sheffield, S10 4DL",140,Community,Accredited,17/10/13,No
+H016,Millstone Teaching Hospital,"27 Quarry Road, Oxford, OX3 8FP",950,Teaching,Accredited,26/01/15,Yes
+H017,Bluebell General Hospital,"39 Lavender Street, Newcastle upon Tyne, NE4 5BQ",340,General,Not Accredited,,Yes
+H018,Northshore Specialist Hospital,"5 Coastal View, Aberdeen, AB2 7HK",260,Specialist,Accredited,06/12/22,No
+H019,Elmwood University Hospital,"21 Forest Road, Liverpool, L18 3MJ",1050,Teaching,Accredited,30/05/11,Yes
+H020,Silverton Community Hospital,"44 Chapel Lane, Bath, Somerset, BA2 6TN",110,Community,Pending,,No
+H021,Woodland General Hospital,"16 Maple Drive, Leicester, LE5 2VR",490,General,Accredited,11/07/19,Yes
+H022,Stonebridge Specialist Hospital,"31 Castle Street, Edinburgh, EH8 9QW",230,Specialist,Accredited,23/04/09,No
+H023,Westhaven Teaching Hospital,"7 Orchard Way, Swansea, SA2 8PL",880,Teaching,Accredited,19/03/24,Yes
+H024,Meadowbrook General Hospital,"53 Brookfield Road, Coventry, CV3 6KS",370,General,Pending,,Yes
+H025,St Helen's Community Hospital,"18 Primrose Lane, Durham, DH1 4NB",130,Community,Accredited,08/02/16,No
+H026,Grandview University Hospital,"29 Summit Avenue, Glasgow, G12 7RT",1200,Teaching,Accredited,16/10/20,Yes
+H027,Lakeside Specialist Hospital,"10 Marina Road, Lancaster, LA1 5QH",175,Specialist,Not Accredited,,No
+H028,Eastwood General Hospital,"37 Ashgrove Street, Derby, DE2 8LM",530,General,Accredited,12/06/13,Yes
+H029,Hillcrest Teaching Hospital,"4 Valley Road, Cambridge, CB2 7YP",760,Teaching,Accredited,25/08/18,Yes
+H030,Springfield Community Hospital,"25 Rose Lane, Chelmsford, Essex, CM2 4WT",85,Community,Accredited,03/11/11,No
+H031,Blackthorn General Hospital,"48 Mill Road, Reading, Berkshire, RG2 8JN",440,General,Accredited,17/01/22,Yes
+H032,Seabrook Specialist Hospital,"13 Cliffside Avenue, Brighton, BN2 6TR",205,Specialist,Pending,,No
+H033,Westfield University Hospital,"36 University Road, Nottingham, NG7 3PQ",980,Teaching,Accredited,20/02/14,Yes
+H034,Orchard General Hospital,"20 Garden Street, Peterborough, PE3 5LX",315,General,Not Accredited,,Yes
+H035,Northgate Community Hospital,"41 Station Road, Carlisle, CA2 7MB",105,Community,Accredited,14/04/17,No
+H036,Cedarwood Teaching Hospital,"15 College Crescent, London, NW3 8RD",890,Teaching,Accredited,28/06/21,Yes
+H037,Harbourview General Hospital,"33 Dockside Road, Portsmouth, PO4 9KF",470,General,Accredited,19/08/08,Yes
+H038,Whitehall Specialist Hospital,"2 Regent Avenue, Belfast, BT7 4QS",250,Specialist,Accredited,07/12/15,No
+H039,Redcliff University Hospital,"50 Beacon Road, Exeter, Devon, EX4 9PL",1020,Teaching,Pending,,Yes
+H040,Willowbrook Community Hospital,"24 Green Lane, Worcester, WR3 7NT",115,Community,Not Accredited,,No
